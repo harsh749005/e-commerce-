@@ -1,3 +1,4 @@
+import 'package:counterapp/components/cart_page.dart';
 import 'package:counterapp/pages/intro_page.dart';
 import 'package:counterapp/pages/shop_page.dart';
 import 'package:counterapp/themes/light_mode.dart';
@@ -19,6 +20,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/intro_page':(context) => const IntroPage(),
         '/shop_page':(context) => const ShopPage(),
+        '/cart_page':(context) => const CartPage()
       },
     );
   }
