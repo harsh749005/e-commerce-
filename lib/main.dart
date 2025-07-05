@@ -1,8 +1,8 @@
-import 'package:counterapp/components/cart_page.dart';
-import 'package:counterapp/models/shop.dart';
-import 'package:counterapp/pages/intro_page.dart';
-import 'package:counterapp/pages/shop_page.dart';
-import 'package:counterapp/themes/light_mode.dart';
+import 'package:lavishlayers/components/cart_page.dart';
+import 'package:lavishlayers/models/shop.dart';
+import 'package:lavishlayers/pages/intro_page.dart';
+import 'package:lavishlayers/pages/shop_page.dart';
+import 'package:lavishlayers/themes/light_mode.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

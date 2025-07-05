@@ -1,6 +1,6 @@
-import 'package:counterapp/models/shop.dart';
+import 'package:lavishlayers/models/shop.dart';
 import 'package:flutter/material.dart';
-import 'package:counterapp/models/product.dart';
+import 'package:lavishlayers/models/product.dart';
 import 'package:provider/provider.dart';
 
 class MyProductTile extends StatelessWidget {

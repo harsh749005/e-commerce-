@@ -1,6 +1,6 @@
-import 'package:counterapp/components/my_drawer.dart';
-import 'package:counterapp/components/my_product_tile.dart';
-import 'package:counterapp/models/shop.dart';
+import 'package:lavishlayers/components/my_drawer.dart';
+import 'package:lavishlayers/components/my_product_tile.dart';
+import 'package:lavishlayers/models/shop.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

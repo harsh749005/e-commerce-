@@ -1,4 +1,4 @@
-import 'package:counterapp/models/product.dart';
+import 'package:lavishlayers/models/product.dart';
 import 'package:flutter/material.dart';
 
 // Shop class manages product list and user cart with state notifications.
